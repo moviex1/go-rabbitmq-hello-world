@@ -1,4 +1,4 @@
-<h1>Golang rabbitmq "Hello world"<h1>
+<h1>Golang rabbitmq "Hello world"</h1>
 
 This project shows basic example work with queues in rabbitmq using golang
 
